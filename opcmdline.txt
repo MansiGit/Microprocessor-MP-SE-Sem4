@@ -1,0 +1,94 @@
+./commandlineA7
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 1
+Command : type file1.txt
+"Welcome!!!"
+Computer Engineering
+Pune Vidyarthi Grihas College of Engineering and Technology,Pune
+Mansi Borole
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 2
+Command : copy file1.txt file2.txt
+File copied successfully !!
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 1
+Command : type file2.txt
+"Welcome!!!"
+Computer Engineering
+Pune Vidyarthi Grihas College of Engineering and Technology,Pune
+Mansi Borole
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 3
+Command : del file1.txt
+File deleted successfully !!
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 1
+Command : type file1.txt
+Error ...
+./commandlineA7
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 1
+Command : type file1.txt
+"Welcome!!!"
+Computer Engineering
+Pune Vidyarthi Grihas College of Engineering and Technology,Pune
+Mansi Borole
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 2
+Command : copy file1.txt file2.txt
+File copied successfully !!
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 1
+Command : type file2.txt
+"Welcome!!!"
+Computer Engineering
+Pune Vidyarthi Grihas College of Engineering and Technology,Pune
+Mansi Borole
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 3
+Command : del file1.txt
+File deleted successfully !!
+MENU : 
+1. TYPE
+2. COPY
+3. DELETE
+4. Exit
+Enter your choice : 1
+Command : type file1.txt
+Error ...
